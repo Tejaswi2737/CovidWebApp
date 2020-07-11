@@ -2,9 +2,10 @@
 
 Steps to run the project:
 
-After cloning the repository, use npm install to install all the dependencies needed.
+ 1. After cloning the repository, 
+ 2. use npm install to install all the dependencies needed.
+ 
 Run npm start to run project in development server. (Refer to more scripts mentioned below)
-
 
 Available Scripts
 In the project directory, you can run:
