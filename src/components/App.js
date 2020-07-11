@@ -377,7 +377,7 @@ class App extends React.Component {
                           <a className="navbar-nav is-main-text my-first-step" href="/">
                             Covid19 Cases
                           </a>
-                          </Nav>                
+                </Nav>                
                 <main id="page-wrap" style={{backgroundImage: `url(${covid})`}}> 
                 <Container>
                       {/* <Joyride disableOverlay="false" steps={this.state.steps}/> */}
