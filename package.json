@@ -9,7 +9,7 @@
     "@react-navigation/material-top-tabs": "^5.1.8",
     "@react-navigation/native": "^5.1.5",
     "@trendmicro/react-sidenav": "^0.5.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "fusioncharts": "^3.13.3-sr.1",
